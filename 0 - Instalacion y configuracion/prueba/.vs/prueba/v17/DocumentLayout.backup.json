@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\0 - Instalacion y configuracion\\prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F83C5705-BA33-4788-A5DE-4BA46313D7D4}|prueba\\prueba.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\0 - instalacion y configuracion\\prueba\\prueba\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F83C5705-BA33-4788-A5DE-4BA46313D7D4}|prueba\\prueba.vbproj|solutionrelative:prueba\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83C5705-BA33-4788-A5DE-4BA46313D7D4}|prueba\\prueba.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\0 - instalacion y configuracion\\prueba\\prueba\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F83C5705-BA33-4788-A5DE-4BA46313D7D4}|prueba\\prueba.vbproj|solutionrelative:prueba\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\0 - Instalacion y configuracion\\prueba\\prueba\\Form1.vb",
+              "RelativeDocumentMoniker": "prueba\\Form1.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\0 - Instalacion y configuracion\\prueba\\prueba\\Form1.vb",
+              "RelativeToolTip": "prueba\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-15T19:33:49.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\0 - Instalacion y configuracion\\prueba\\prueba\\Form1.vb",
+              "RelativeDocumentMoniker": "prueba\\Form1.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\0 - Instalacion y configuracion\\prueba\\prueba\\Form1.vb [Design]",
+              "RelativeToolTip": "prueba\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-15T19:13:33.19Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

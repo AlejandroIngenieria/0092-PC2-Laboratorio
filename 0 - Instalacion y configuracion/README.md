@@ -1,6 +1,6 @@
 # 🛠 Manual de Instalación y Configuración de Visual Studio Community 2022 con el Paquete "Desarrollo de escritorio .NET"
 
----
+## Tambien puedes usar este video como guia por si lo prefieres [Haz click aquí para ir al video](https://youtu.be/VPQv4o-vvH4?si=LSuTXfntT2e3kRPL)
 
 ## 📌 Requisitos Previos
 
