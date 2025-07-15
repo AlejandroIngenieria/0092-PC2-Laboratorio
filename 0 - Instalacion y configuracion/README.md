@@ -69,10 +69,14 @@
 ## 6. Iniciar Visual Studio
 
 1. Una vez instalada, haz clic en **"Iniciar"**.
-2. Inicia sesión con tu cuenta de Microsoft para activar la edición Community.
-3. Selecciona un tema de color si es tu primera vez (Claro, Oscuro, Azul, etc.).
+
+![iniciar](imgs/14.png)
+
+2. Inicia sesión con tu cuenta de Microsoft para activar la edición Community o puedes ignorarlo.
 
 ![iniciar sesión](imgs/7.png)
+
+3. Selecciona un tema de color si es tu primera vez (Claro, Oscuro, Azul, etc.).
 
 ![selección de tema y entorno](imgs/8.png)
 
