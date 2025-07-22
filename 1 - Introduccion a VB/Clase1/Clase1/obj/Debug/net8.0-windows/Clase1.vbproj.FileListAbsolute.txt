@@ -1,0 +1,17 @@
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\bin\Debug\net8.0-windows\Clase1.exe
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\bin\Debug\net8.0-windows\Clase1.deps.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\bin\Debug\net8.0-windows\Clase1.runtimeconfig.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\bin\Debug\net8.0-windows\Clase1.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\bin\Debug\net8.0-windows\Clase1.pdb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\obj\Debug\net8.0-windows\Clase1.Form1.resources
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\obj\Debug\net8.0-windows\Clase1.vbproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\obj\Debug\net8.0-windows\Clase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\obj\Debug\net8.0-windows\Clase1.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\obj\Debug\net8.0-windows\Clase1.AssemblyInfo.vb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\obj\Debug\net8.0-windows\Clase1.vbproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\obj\Debug\net8.0-windows\Clase1.sourcelink.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\obj\Debug\net8.0-windows\Clase1.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\obj\Debug\net8.0-windows\refint\Clase1.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\obj\Debug\net8.0-windows\Clase1.pdb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\obj\Debug\net8.0-windows\Clase1.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\1 - Introduccion a VB\Clase1\Clase1\obj\Debug\net8.0-windows\ref\Clase1.dll
