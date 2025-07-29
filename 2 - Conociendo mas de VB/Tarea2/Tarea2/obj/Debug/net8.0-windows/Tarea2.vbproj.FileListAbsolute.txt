@@ -1,0 +1,17 @@
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\bin\Debug\net8.0-windows\Tarea2.exe
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\bin\Debug\net8.0-windows\Tarea2.deps.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\bin\Debug\net8.0-windows\Tarea2.runtimeconfig.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\bin\Debug\net8.0-windows\Tarea2.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\bin\Debug\net8.0-windows\Tarea2.pdb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.Form1.resources
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.vbproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.AssemblyInfo.vb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.vbproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.sourcelink.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\obj\Debug\net8.0-windows\refint\Tarea2.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.pdb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\obj\Debug\net8.0-windows\Tarea2.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\Tarea2\Tarea2\obj\Debug\net8.0-windows\ref\Tarea2.dll
