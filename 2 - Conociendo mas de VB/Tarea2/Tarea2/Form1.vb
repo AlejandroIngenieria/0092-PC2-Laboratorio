@@ -14,10 +14,15 @@
 
         'Inciso A
         'Pago inicial: La suma de las multiplicaciones de las libras de cada producto por el precio.
-        librasDeArroz = txtArroz.Text
-        librasDeFrijol = txtFrijol.Text
-        librasDeAzucar = txtAzucar.Text
-        librasDeCafe = txtCafe.Text
+
+        Try
+            librasDeArroz = txtArroz.Text
+            librasDeFrijol = txtFrijol.Text
+            librasDeAzucar = txtAzucar.Text
+            librasDeCafe = txtCafe.Text
+        Catch ex As Exception
+            MsgBox("Por favor, ingrese valores numéricos válidos para las libras de los productos.")
+        End Try
 
         librasDeArroz = librasDeArroz * 2
         librasDeFrijol = librasDeFrijol * 1.75
@@ -71,7 +76,6 @@
         'Mostrar el resultado del inciso F en un MessageBox
         MsgBox("Los resultados del inciso F son:")
         MsgBox(totalAPagar)
-
 
     End Sub
 

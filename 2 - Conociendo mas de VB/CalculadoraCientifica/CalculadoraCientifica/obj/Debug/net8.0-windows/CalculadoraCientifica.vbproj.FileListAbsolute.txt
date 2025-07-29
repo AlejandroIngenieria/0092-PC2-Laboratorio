@@ -1,0 +1,17 @@
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.exe
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.deps.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.runtimeconfig.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.pdb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.Form1.resources
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.vbproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.AssemblyInfo.vb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.vbproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.sourcelink.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0-windows\refint\CalculadoraCientifica.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.pdb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\2 - Conociendo mas de VB\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0-windows\ref\CalculadoraCientifica.dll
