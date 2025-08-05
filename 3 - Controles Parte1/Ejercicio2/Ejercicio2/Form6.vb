@@ -1,0 +1,109 @@
+﻿Public Class Form6
+    Private WithEvents SplitContainer1 As New SplitContainer()
+    Private WithEvents btnIzquierda As New Button()
+    Private WithEvents btnDerecha As New Button()
+    Private WithEvents txtPanel1 As New TextBox()
+    Private WithEvents txtPanel2 As New TextBox()
+    Private WithEvents rbOpcion1 As New RadioButton()
+    Private WithEvents rbOpcion2 As New RadioButton()
+    Private WithEvents chkMostrar As New CheckBox()
+    Private WithEvents lblPanel1 As New Label()
+    Private WithEvents lblPanel2 As New Label()
+
+    Private Sub Form6_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        ' Configuración del formulario
+        Text = "Ejemplo SplitContainer"
+        ClientSize = New Size(800, 400)
+        StartPosition = FormStartPosition.CenterScreen
+
+        ' Configuración del SplitContainer
+        ' DockStyle.Fill hace que ocupe todo el formulario
+        SplitContainer1.Dock = DockStyle.Fill
+        SplitContainer1.SplitterDistance = 300 ' Divide en dos paneles iguales
+        ' Accedemos al Panel1 y Panel2 del SplitContainer
+        SplitContainer1.Panel1.BackColor = Color.LightBlue
+        SplitContainer1.Panel2.BackColor = Color.LightGreen
+
+        ' ===== CONTROLES EN PANEL IZQUIERDO =====
+        lblPanel1.Text = "Panel Izquierdo"
+        lblPanel1.Font = New Font("Arial", 10, FontStyle.Bold)
+        lblPanel1.AutoSize = True
+        lblPanel1.Location = New Point(20, 20)
+        SplitContainer1.Panel1.Controls.Add(lblPanel1)
+
+        txtPanel1.Location = New Point(20, 50)
+        txtPanel1.Size = New Size(200, 20)
+        SplitContainer1.Panel1.Controls.Add(txtPanel1)
+
+        rbOpcion1.Text = "Opción 1"
+        rbOpcion1.AutoSize = True
+        rbOpcion1.Location = New Point(20, 90)
+        SplitContainer1.Panel1.Controls.Add(rbOpcion1)
+
+        rbOpcion2.Text = "Opción 2"
+        rbOpcion2.AutoSize = True
+        rbOpcion2.Location = New Point(20, 120)
+        SplitContainer1.Panel1.Controls.Add(rbOpcion2)
+
+        btnIzquierda.Text = "Copiar a Derecha"
+        btnIzquierda.Size = New Size(150, 30)
+        btnIzquierda.Location = New Point(20, 160)
+        SplitContainer1.Panel1.Controls.Add(btnIzquierda)
+
+        ' ===== CONTROLES EN PANEL DERECHO =====
+        lblPanel2.Text = "Panel Derecho"
+        lblPanel2.Font = New Font("Arial", 10, FontStyle.Bold)
+        lblPanel2.AutoSize = True
+        lblPanel2.Location = New Point(20, 20)
+        SplitContainer1.Panel2.Controls.Add(lblPanel2)
+
+        txtPanel2.Location = New Point(20, 50)
+        txtPanel2.Size = New Size(200, 20)
+        SplitContainer1.Panel2.Controls.Add(txtPanel2)
+
+        chkMostrar.Text = "Mostrar texto"
+        chkMostrar.AutoSize = True
+        chkMostrar.Location = New Point(20, 90)
+        SplitContainer1.Panel2.Controls.Add(chkMostrar)
+
+        btnDerecha.Text = "Copiar a Izquierda"
+        btnDerecha.Size = New Size(150, 30)
+        btnDerecha.Location = New Point(20, 130)
+        SplitContainer1.Panel2.Controls.Add(btnDerecha)
+
+        ' Agregar SplitContainer al formulario
+        Controls.Add(SplitContainer1)
+    End Sub
+
+    Private Sub btnIzquierda_Click(sender As Object, e As EventArgs) Handles btnIzquierda.Click
+        ' Copiar texto del panel izquierdo al derecho
+        If txtPanel1.Text <> "" Then
+            txtPanel2.Text = txtPanel1.Text
+        Else
+            txtPanel2.Text = "No hay texto"
+        End If
+
+        ' Verificar qué RadioButton está seleccionado
+        If rbOpcion1.Checked Then
+            chkMostrar.Checked = True
+        ElseIf rbOpcion2.Checked Then
+            chkMostrar.Checked = False
+        End If
+    End Sub
+
+    Private Sub btnDerecha_Click(sender As Object, e As EventArgs) Handles btnDerecha.Click
+        ' Copiar texto del panel derecho al izquierdo
+        If txtPanel2.Text = "" Then
+            txtPanel1.Text = "Vacío"
+        Else
+            txtPanel1.Text = txtPanel2.Text
+        End If
+
+        ' Cambiar opciones según el CheckBox
+        If chkMostrar.Checked Then
+            rbOpcion1.Checked = True
+        Else
+            rbOpcion2.Checked = True
+        End If
+    End Sub
+End Class

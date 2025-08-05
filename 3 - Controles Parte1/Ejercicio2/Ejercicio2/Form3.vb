@@ -1,0 +1,159 @@
+﻿Public Class Form3
+    ' Definición de los GroupBox
+    Private GroupBox1 As New GroupBox()
+    Private GroupBox2 As New GroupBox()
+    Private GroupBox3 As New GroupBox()
+    Private WithEvents btnForm4 As New Button()
+    Private WithEvents txtNombre As New TextBox()
+
+    Private Sub Form3_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+        ' ===== CONFIGURACIÓN DEL FORMULARIO =====
+        ' Configuración básica del formulario
+        Text = "Selección con RadioButtons"
+        ClientSize = New Size(600, 400)
+        StartPosition = FormStartPosition.CenterScreen
+
+        ' ===== GROUPBOX 1 (Largo) - Selección de Género =====
+        GroupBox1.Text = "Género"
+        GroupBox1.Font = New Font("Arial", 10, FontStyle.Bold)
+        GroupBox1.Size = New Size(550, 100)
+        GroupBox1.Location = New Point(20, 20)
+
+        ' RadioButtons para género
+        Dim rbMasculino As New RadioButton()
+        rbMasculino.Text = "Masculino"
+        rbMasculino.Location = New Point(30, 30)
+        rbMasculino.AutoSize = True
+        rbMasculino.Name = "rbMasculino"
+
+        Dim rbFemenino As New RadioButton()
+        rbFemenino.Text = "Femenino"
+        rbFemenino.Location = New Point(30, 60)
+        rbFemenino.AutoSize = True
+        rbFemenino.Name = "rbFemenino"
+
+        GroupBox1.Controls.Add(rbMasculino)
+        GroupBox1.Controls.Add(rbFemenino)
+
+        ' ===== GROUPBOX 2 (Corto) - Estado Civil =====
+        GroupBox2.Text = "Estado Civil"
+        GroupBox2.Font = New Font("Arial", 10, FontStyle.Bold)
+        GroupBox2.Size = New Size(250, 120)
+        GroupBox2.Location = New Point(20, 140)
+
+        ' RadioButtons para estado civil
+        Dim rbSoltero As New RadioButton()
+        rbSoltero.Text = "Soltero/a"
+        rbSoltero.Location = New Point(20, 30)
+        rbSoltero.AutoSize = True
+        rbSoltero.Name = "rbSoltero"
+
+        Dim rbCasado As New RadioButton()
+        rbCasado.Text = "Casado/a"
+        rbCasado.Location = New Point(20, 60)
+        rbCasado.AutoSize = True
+        rbCasado.Name = "rbCasado"
+
+        Dim rbDivorciado As New RadioButton()
+        rbDivorciado.Text = "Divorciado/a"
+        rbDivorciado.Location = New Point(20, 90)
+        rbDivorciado.AutoSize = True
+        rbDivorciado.Name = "rbDivorciado"
+
+        GroupBox2.Controls.Add(rbSoltero)
+        GroupBox2.Controls.Add(rbCasado)
+        GroupBox2.Controls.Add(rbDivorciado)
+
+        ' ===== GROUPBOX 3 (Corto) - Nivel Educativo =====
+        GroupBox3.Text = "Educación"
+        GroupBox3.Font = New Font("Arial", 10, FontStyle.Bold)
+        GroupBox3.Size = New Size(250, 120)
+        GroupBox3.Location = New Point(290, 140)
+
+        ' RadioButtons para educación
+        Dim rbPrimaria As New RadioButton()
+        rbPrimaria.Text = "Primaria"
+        rbPrimaria.Location = New Point(20, 30)
+        rbPrimaria.AutoSize = True
+        rbPrimaria.Name = "rbPrimaria"
+
+        Dim rbSecundaria As New RadioButton()
+        rbSecundaria.Text = "Secundaria"
+        rbSecundaria.Location = New Point(20, 60)
+        rbSecundaria.AutoSize = True
+        rbSecundaria.Name = "rbSecundaria"
+
+        Dim rbUniversidad As New RadioButton()
+        rbUniversidad.Text = "Universidad"
+        rbUniversidad.Location = New Point(20, 90)
+        rbUniversidad.AutoSize = True
+        rbUniversidad.Name = "rbUniversidad"
+
+        GroupBox3.Controls.Add(rbPrimaria)
+        GroupBox3.Controls.Add(rbSecundaria)
+        GroupBox3.Controls.Add(rbUniversidad)
+
+        ' ===== BOTÓN PARA MOSTRAR SELECCIÓN =====
+        Dim btnMostrar As New Button()
+        btnMostrar.Text = "Mostrar selección"
+        btnMostrar.Size = New Size(150, 40)
+        btnMostrar.Location = New Point(200, 280)
+        AddHandler btnMostrar.Click, AddressOf MostrarSeleccion
+        Controls.Add(btnMostrar)
+
+        ' Agregar todos los GroupBox al formulario
+        Controls.Add(GroupBox1)
+        Controls.Add(GroupBox2)
+        Controls.Add(GroupBox3)
+
+
+        ' ===== BOTÓN PARA ABRIR FORMULARIO 4 =====
+        btnForm4.Text = "Abrir Formulario 4"
+        btnForm4.Size = New Size(150, 40)
+        btnForm4.Location = New Point(400, 280)
+        Controls.Add(btnForm4)
+    End Sub
+
+    Private Sub MostrarSeleccion(sender As Object, e As EventArgs)
+        Dim mensaje As String = "Selección actual:" & vbCrLf & vbCrLf
+
+        ' Verificar selección de género (GroupBox1)
+        ' DirectCast se usa para convertir el control a RadioButton
+        ' En otras palabras, se asegura de que el control sea del tipo correcto antes de acceder a sus propiedades
+        ' Si no se usa, podría causar un error en tiempo de ejecución si el control no es del tipo esperado.
+        ' Sin DirectCast, lo que devuelve sería un objeto genérico tipo Control, y no podríamos acceder a las propiedades específicas de RadioButton.
+        ' Aqui usamos DirectCast para acceder a los RadioButtons dentro de GroupBox1, GroupBox2 y GroupBox3.
+        If DirectCast(GroupBox1.Controls("rbMasculino"), RadioButton).Checked Then
+            mensaje &= "Género: Masculino" & vbCrLf
+        ElseIf DirectCast(GroupBox1.Controls("rbFemenino"), RadioButton).Checked Then
+            mensaje &= "Género: Femenino" & vbCrLf
+        End If
+
+        ' Verificar estado civil (GroupBox2)
+        If DirectCast(GroupBox2.Controls("rbSoltero"), RadioButton).Checked Then
+            mensaje &= "Estado Civil: Soltero/a" & vbCrLf
+        ElseIf DirectCast(GroupBox2.Controls("rbCasado"), RadioButton).Checked Then
+            mensaje &= "Estado Civil: Casado/a" & vbCrLf
+        ElseIf DirectCast(GroupBox2.Controls("rbDivorciado"), RadioButton).Checked Then
+            mensaje &= "Estado Civil: Divorciado/a" & vbCrLf
+        End If
+
+        ' Verificar educación (GroupBox3)
+        If DirectCast(GroupBox3.Controls("rbPrimaria"), RadioButton).Checked Then
+            mensaje &= "Educación: Primaria" & vbCrLf
+        ElseIf DirectCast(GroupBox3.Controls("rbSecundaria"), RadioButton).Checked Then
+            mensaje &= "Educación: Secundaria" & vbCrLf
+        ElseIf DirectCast(GroupBox3.Controls("rbUniversidad"), RadioButton).Checked Then
+            mensaje &= "Educación: Universidad" & vbCrLf
+        End If
+
+        MessageBox.Show(mensaje, "Resumen de selección", MessageBoxButtons.OK, MessageBoxIcon.Information)
+    End Sub
+
+    ' Evento para abrir Formulario 4
+    Private Sub btnForm4_Click(sender As Object, e As EventArgs) Handles btnForm4.Click
+        Form4.Show()
+    End Sub
+
+End Class
