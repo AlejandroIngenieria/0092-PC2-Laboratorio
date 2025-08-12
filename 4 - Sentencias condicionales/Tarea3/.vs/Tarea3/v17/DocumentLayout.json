@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\4 - Sentencias condicionales\\Tarea3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{347483DC-5496-4D0D-80D6-0BC217F882B7}|Tarea3\\Tarea3.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\4 - sentencias condicionales\\tarea3\\tarea3\\cambiomoneda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{347483DC-5496-4D0D-80D6-0BC217F882B7}|Tarea3\\Tarea3.vbproj|solutionrelative:tarea3\\cambiomoneda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347483DC-5496-4D0D-80D6-0BC217F882B7}|Tarea3\\Tarea3.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\4 - sentencias condicionales\\tarea3\\tarea3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{347483DC-5496-4D0D-80D6-0BC217F882B7}|Tarea3\\Tarea3.vbproj|solutionrelative:tarea3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CambioMoneda.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\4 - Sentencias condicionales\\Tarea3\\Tarea3\\CambioMoneda.vb",
+              "RelativeDocumentMoniker": "Tarea3\\CambioMoneda.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\4 - Sentencias condicionales\\Tarea3\\Tarea3\\CambioMoneda.vb",
+              "RelativeToolTip": "Tarea3\\CambioMoneda.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-12T00:47:03.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\4 - Sentencias condicionales\\Tarea3\\Tarea3\\Form1.vb",
+              "RelativeDocumentMoniker": "Tarea3\\Form1.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\4 - Sentencias condicionales\\Tarea3\\Tarea3\\Form1.vb",
+              "RelativeToolTip": "Tarea3\\Form1.vb",
+              "ViewState": "AgIAALEAAAAAAAAAAAAcwM8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-12T00:44:41.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

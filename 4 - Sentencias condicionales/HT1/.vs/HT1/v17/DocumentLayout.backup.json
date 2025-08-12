@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\4 - Sentencias condicionales\\HT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E07EB9-4DEA-495B-B9EC-140F63323432}|HT1\\HT1.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\4 - sentencias condicionales\\ht1\\ht1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F6E07EB9-4DEA-495B-B9EC-140F63323432}|HT1\\HT1.vbproj|solutionrelative:ht1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E07EB9-4DEA-495B-B9EC-140F63323432}|HT1\\HT1.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\4 - sentencias condicionales\\ht1\\ht1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F6E07EB9-4DEA-495B-B9EC-140F63323432}|HT1\\HT1.vbproj|solutionrelative:ht1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E07EB9-4DEA-495B-B9EC-140F63323432}|HT1\\HT1.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\4 - sentencias condicionales\\ht1\\ht1\\facturacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F6E07EB9-4DEA-495B-B9EC-140F63323432}|HT1\\HT1.vbproj|solutionrelative:ht1\\facturacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Facturacion.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\4 - Sentencias condicionales\\HT1\\HT1\\Facturacion.vb",
+              "RelativeDocumentMoniker": "HT1\\Facturacion.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\4 - Sentencias condicionales\\HT1\\HT1\\Facturacion.vb",
+              "RelativeToolTip": "HT1\\Facturacion.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-12T00:12:25.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\4 - Sentencias condicionales\\HT1\\HT1\\Form1.vb",
+              "RelativeDocumentMoniker": "HT1\\Form1.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\4 - Sentencias condicionales\\HT1\\HT1\\Form1.vb",
+              "RelativeToolTip": "HT1\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-12T00:10:34.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\4 - Sentencias condicionales\\HT1\\HT1\\Form1.vb",
+              "RelativeDocumentMoniker": "HT1\\Form1.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\4 - Sentencias condicionales\\HT1\\HT1\\Form1.vb [Design]",
+              "RelativeToolTip": "HT1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-12T00:09:59.713Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
