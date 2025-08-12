@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Containers"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eb2f2997783471e3dca558c79ffddde67102450"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e2386a51503fc56fc60cd68600a0fed7bd912ba"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Containers"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Containers"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
