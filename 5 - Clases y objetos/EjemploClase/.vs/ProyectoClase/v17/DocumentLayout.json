@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\5 - Clases y objetos\\EjemploClase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7CC8881-DD10-44E6-9948-BF0D27DA05FD}|ProyectoClase\\ProyectoClase.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\5 - clases y objetos\\ejemploclase\\proyectoclase\\arrays.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C7CC8881-DD10-44E6-9948-BF0D27DA05FD}|ProyectoClase\\ProyectoClase.vbproj|solutionrelative:proyectoclase\\arrays.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7CC8881-DD10-44E6-9948-BF0D27DA05FD}|ProyectoClase\\ProyectoClase.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\5 - clases y objetos\\ejemploclase\\proyectoclase\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C7CC8881-DD10-44E6-9948-BF0D27DA05FD}|ProyectoClase\\ProyectoClase.vbproj|solutionrelative:proyectoclase\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7CC8881-DD10-44E6-9948-BF0D27DA05FD}|ProyectoClase\\ProyectoClase.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\5 - clases y objetos\\ejemploclase\\proyectoclase\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C7CC8881-DD10-44E6-9948-BF0D27DA05FD}|ProyectoClase\\ProyectoClase.vbproj|solutionrelative:proyectoclase\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7CC8881-DD10-44E6-9948-BF0D27DA05FD}|ProyectoClase\\ProyectoClase.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\5 - clases y objetos\\ejemploclase\\proyectoclase\\listas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C7CC8881-DD10-44E6-9948-BF0D27DA05FD}|ProyectoClase\\ProyectoClase.vbproj|solutionrelative:proyectoclase\\listas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7CC8881-DD10-44E6-9948-BF0D27DA05FD}|ProyectoClase\\ProyectoClase.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\5 - clases y objetos\\ejemploclase\\proyectoclase\\usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C7CC8881-DD10-44E6-9948-BF0D27DA05FD}|ProyectoClase\\ProyectoClase.vbproj|solutionrelative:proyectoclase\\usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\5 - Clases y objetos\\EjemploClase\\ProyectoClase\\Form1.vb",
+              "RelativeDocumentMoniker": "ProyectoClase\\Form1.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\5 - Clases y objetos\\EjemploClase\\ProyectoClase\\Form1.vb",
+              "RelativeToolTip": "ProyectoClase\\Form1.vb",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-19T20:14:20.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arrays.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\5 - Clases y objetos\\EjemploClase\\ProyectoClase\\Arrays.vb",
+              "RelativeDocumentMoniker": "ProyectoClase\\Arrays.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\5 - Clases y objetos\\EjemploClase\\ProyectoClase\\Arrays.vb",
+              "RelativeToolTip": "ProyectoClase\\Arrays.vb",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwC8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-19T19:58:32.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Listas.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\5 - Clases y objetos\\EjemploClase\\ProyectoClase\\Listas.vb",
+              "RelativeDocumentMoniker": "ProyectoClase\\Listas.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\5 - Clases y objetos\\EjemploClase\\ProyectoClase\\Listas.vb",
+              "RelativeToolTip": "ProyectoClase\\Listas.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-19T19:20:25.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\5 - Clases y objetos\\EjemploClase\\ProyectoClase\\Usuario.vb",
+              "RelativeDocumentMoniker": "ProyectoClase\\Usuario.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\5 - Clases y objetos\\EjemploClase\\ProyectoClase\\Usuario.vb",
+              "RelativeToolTip": "ProyectoClase\\Usuario.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-19T18:40:57.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\5 - Clases y objetos\\EjemploClase\\ProyectoClase\\Form1.vb",
+              "RelativeDocumentMoniker": "ProyectoClase\\Form1.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\5 - Clases y objetos\\EjemploClase\\ProyectoClase\\Form1.vb [Design]",
+              "RelativeToolTip": "ProyectoClase\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-19T17:40:57.215Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

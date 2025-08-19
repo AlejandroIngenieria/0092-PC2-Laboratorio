@@ -1,0 +1,34 @@
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\bin\Debug\net8.0-windows\ProyectoClase.exe
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\bin\Debug\net8.0-windows\ProyectoClase.deps.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\bin\Debug\net8.0-windows\ProyectoClase.runtimeconfig.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\bin\Debug\net8.0-windows\ProyectoClase.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\bin\Debug\net8.0-windows\ProyectoClase.pdb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.Form1.resources
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.vbproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.AssemblyInfo.vb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.vbproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.sourcelink.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\obj\Debug\net8.0-windows\refint\ProyectoClase.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.pdb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\ProyectoClase\ProyectoClase\obj\Debug\net8.0-windows\ref\ProyectoClase.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\bin\Debug\net8.0-windows\ProyectoClase.exe
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\bin\Debug\net8.0-windows\ProyectoClase.deps.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\bin\Debug\net8.0-windows\ProyectoClase.runtimeconfig.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\bin\Debug\net8.0-windows\ProyectoClase.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\bin\Debug\net8.0-windows\ProyectoClase.pdb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.Form1.resources
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.vbproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.AssemblyInfo.vb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.vbproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.sourcelink.json
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\obj\Debug\net8.0-windows\refint\ProyectoClase.dll
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.pdb
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\obj\Debug\net8.0-windows\ProyectoClase.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\PC2_P\Repositorio\5 - Clases y objetos\EjemploClase\ProyectoClase\obj\Debug\net8.0-windows\ref\ProyectoClase.dll
