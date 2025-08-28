@@ -18,6 +18,10 @@
         End If
     End Sub
 
+    Private Sub MiSubrutinaConParametros(nombre As String, edad As Integer)
+        MessageBox.Show($"Nombre: {nombre}, Edad: {edad}")
+    End Sub
+
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         inicializarAnimales()
 
@@ -46,7 +50,7 @@
         AddHandler panel1.Click, AddressOf panel_Click
         ' Agregar el evento click al picturebox y label del panel1 para que tambien respondan al click
         AddHandler picAnimal1.Click, AddressOf panel_Click
-        AddHandler lblAnimal1.Click, AddressOf panel_Click
+        AddHandler lblAnimal1.Click, Sub(s, ev) MiSubrutinaConParametros(listaAnimales(0).Nombre, listaAnimales(0).Edad)
 
         ' Repetir para el animal en la posicion 1 de la lista de animales
         Dim panel2 As New Panel()
