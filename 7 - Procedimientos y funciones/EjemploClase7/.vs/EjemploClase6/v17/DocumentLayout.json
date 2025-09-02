@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C64669A9-E337-48CA-A3ED-9F207442AFE5}|EjemploClase6\\EjemploClase6.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\7 - procedimientos y funciones\\ejemploclase7\\ejemploclase6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C64669A9-E337-48CA-A3ED-9F207442AFE5}|EjemploClase6\\EjemploClase6.vbproj|solutionrelative:ejemploclase6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64669A9-E337-48CA-A3ED-9F207442AFE5}|EjemploClase6\\EjemploClase6.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\7 - procedimientos y funciones\\ejemploclase7\\ejemploclase6\\agregaranimal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C64669A9-E337-48CA-A3ED-9F207442AFE5}|EjemploClase6\\EjemploClase6.vbproj|solutionrelative:ejemploclase6\\agregaranimal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64669A9-E337-48CA-A3ED-9F207442AFE5}|EjemploClase6\\EjemploClase6.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\7 - procedimientos y funciones\\ejemploclase7\\ejemploclase6\\animalmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C64669A9-E337-48CA-A3ED-9F207442AFE5}|EjemploClase6\\EjemploClase6.vbproj|solutionrelative:ejemploclase6\\animalmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64669A9-E337-48CA-A3ED-9F207442AFE5}|EjemploClase6\\EjemploClase6.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\7 - procedimientos y funciones\\ejemploclase7\\ejemploclase6\\informacionanimal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C64669A9-E337-48CA-A3ED-9F207442AFE5}|EjemploClase6\\EjemploClase6.vbproj|solutionrelative:ejemploclase6\\informacionanimal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64669A9-E337-48CA-A3ED-9F207442AFE5}|EjemploClase6\\EjemploClase6.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\7 - procedimientos y funciones\\ejemploclase7\\ejemploclase6\\informacionanimal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C64669A9-E337-48CA-A3ED-9F207442AFE5}|EjemploClase6\\EjemploClase6.vbproj|solutionrelative:ejemploclase6\\informacionanimal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64669A9-E337-48CA-A3ED-9F207442AFE5}|EjemploClase6\\EjemploClase6.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\7 - procedimientos y funciones\\ejemploclase7\\ejemploclase6\\agregaranimal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C64669A9-E337-48CA-A3ED-9F207442AFE5}|EjemploClase6\\EjemploClase6.vbproj|solutionrelative:ejemploclase6\\agregaranimal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64669A9-E337-48CA-A3ED-9F207442AFE5}|EjemploClase6\\EjemploClase6.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\7 - procedimientos y funciones\\ejemploclase7\\ejemploclase6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C64669A9-E337-48CA-A3ED-9F207442AFE5}|EjemploClase6\\EjemploClase6.vbproj|solutionrelative:ejemploclase6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "animalManager.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\EjemploClase6\\animalManager.vb",
+              "RelativeDocumentMoniker": "EjemploClase6\\animalManager.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\EjemploClase6\\animalManager.vb",
+              "RelativeToolTip": "EjemploClase6\\animalManager.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-02T19:30:41.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregarAnimal.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\EjemploClase6\\AgregarAnimal.vb",
+              "RelativeDocumentMoniker": "EjemploClase6\\AgregarAnimal.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\EjemploClase6\\AgregarAnimal.vb",
+              "RelativeToolTip": "EjemploClase6\\AgregarAnimal.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-02T19:26:51.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgregarAnimal.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\EjemploClase6\\AgregarAnimal.vb",
+              "RelativeDocumentMoniker": "EjemploClase6\\AgregarAnimal.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\EjemploClase6\\AgregarAnimal.vb [Design]",
+              "RelativeToolTip": "EjemploClase6\\AgregarAnimal.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-02T19:21:54.311Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\EjemploClase6\\Form1.vb",
+              "RelativeDocumentMoniker": "EjemploClase6\\Form1.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\EjemploClase6\\Form1.vb [Design]",
+              "RelativeToolTip": "EjemploClase6\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-02T19:19:44.827Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InformacionAnimal.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\EjemploClase6\\InformacionAnimal.vb",
+              "RelativeDocumentMoniker": "EjemploClase6\\InformacionAnimal.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\EjemploClase6\\InformacionAnimal.vb",
+              "RelativeToolTip": "EjemploClase6\\InformacionAnimal.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-02T19:06:58.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InformacionAnimal.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\EjemploClase6\\InformacionAnimal.vb",
+              "RelativeDocumentMoniker": "EjemploClase6\\InformacionAnimal.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\EjemploClase6\\InformacionAnimal.vb [Design]",
+              "RelativeToolTip": "EjemploClase6\\InformacionAnimal.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-02T18:58:52.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\EjemploClase6\\Form1.vb",
+              "RelativeDocumentMoniker": "EjemploClase6\\Form1.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\7 - Procedimientos y funciones\\EjemploClase7\\EjemploClase6\\Form1.vb",
+              "RelativeToolTip": "EjemploClase6\\Form1.vb",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGYAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-26T19:04:44.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
