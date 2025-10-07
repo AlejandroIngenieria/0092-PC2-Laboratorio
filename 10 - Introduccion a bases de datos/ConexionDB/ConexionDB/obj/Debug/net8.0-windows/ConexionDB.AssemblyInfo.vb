@@ -13,12 +13,12 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("Ejemplo"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("ConexionDB"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e784df7e36c17bf240c0f75d23438a046b21ee05"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("Ejemplo"),  _
- Assembly: System.Reflection.AssemblyTitleAttribute("Ejemplo"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("ConexionDB"),  _
+ Assembly: System.Reflection.AssemblyTitleAttribute("ConexionDB"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 
