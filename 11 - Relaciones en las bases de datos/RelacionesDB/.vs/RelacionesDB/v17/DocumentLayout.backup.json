@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\11 - Relaciones en las bases de datos\\RelacionesDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF56EDEB-F23D-4158-B132-D6A73E2012EF}|RelacionesDB\\RelacionesDB.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\11 - relaciones en las bases de datos\\relacionesdb\\relacionesdb\\formadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EF56EDEB-F23D-4158-B132-D6A73E2012EF}|RelacionesDB\\RelacionesDB.vbproj|solutionrelative:relacionesdb\\formadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF56EDEB-F23D-4158-B132-D6A73E2012EF}|RelacionesDB\\RelacionesDB.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\11 - relaciones en las bases de datos\\relacionesdb\\relacionesdb\\connectiondb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF56EDEB-F23D-4158-B132-D6A73E2012EF}|RelacionesDB\\RelacionesDB.vbproj|solutionrelative:relacionesdb\\connectiondb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAdmin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\11 - Relaciones en las bases de datos\\RelacionesDB\\RelacionesDB\\FormAdmin.vb",
+              "RelativeDocumentMoniker": "RelacionesDB\\FormAdmin.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\11 - Relaciones en las bases de datos\\RelacionesDB\\RelacionesDB\\FormAdmin.vb [Design]",
+              "RelativeToolTip": "RelacionesDB\\FormAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-14T18:48:58.682Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionDB.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\11 - Relaciones en las bases de datos\\RelacionesDB\\RelacionesDB\\ConnectionDB.vb",
+              "RelativeDocumentMoniker": "RelacionesDB\\ConnectionDB.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\11 - Relaciones en las bases de datos\\RelacionesDB\\RelacionesDB\\ConnectionDB.vb",
+              "RelativeToolTip": "RelacionesDB\\ConnectionDB.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-14T18:45:58.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
