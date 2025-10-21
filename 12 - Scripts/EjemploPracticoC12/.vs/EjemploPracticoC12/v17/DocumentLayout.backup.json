@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\12 - Scripts\\EjemploPracticoC12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7CAC2D-5D39-456F-9FCB-2F10758534D9}|EjemploPracticoC12\\EjemploPracticoC12.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\12 - scripts\\ejemplopracticoc12\\ejemplopracticoc12\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BC7CAC2D-5D39-456F-9FCB-2F10758534D9}|EjemploPracticoC12\\EjemploPracticoC12.vbproj|solutionrelative:ejemplopracticoc12\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7CAC2D-5D39-456F-9FCB-2F10758534D9}|EjemploPracticoC12\\EjemploPracticoC12.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\12 - scripts\\ejemplopracticoc12\\ejemplopracticoc12\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BC7CAC2D-5D39-456F-9FCB-2F10758534D9}|EjemploPracticoC12\\EjemploPracticoC12.vbproj|solutionrelative:ejemplopracticoc12\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7CAC2D-5D39-456F-9FCB-2F10758534D9}|EjemploPracticoC12\\EjemploPracticoC12.vbproj|c:\\users\\alejandro\\desktop\\pc2_p\\repositorio\\12 - scripts\\ejemplopracticoc12\\ejemplopracticoc12\\connectiondb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BC7CAC2D-5D39-456F-9FCB-2F10758534D9}|EjemploPracticoC12\\EjemploPracticoC12.vbproj|solutionrelative:ejemplopracticoc12\\connectiondb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectionDB.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\12 - Scripts\\EjemploPracticoC12\\EjemploPracticoC12\\ConnectionDB.vb",
+              "RelativeDocumentMoniker": "EjemploPracticoC12\\ConnectionDB.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\12 - Scripts\\EjemploPracticoC12\\EjemploPracticoC12\\ConnectionDB.vb",
+              "RelativeToolTip": "EjemploPracticoC12\\ConnectionDB.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-21T18:35:00.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\12 - Scripts\\EjemploPracticoC12\\EjemploPracticoC12\\Form1.vb",
+              "RelativeDocumentMoniker": "EjemploPracticoC12\\Form1.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\12 - Scripts\\EjemploPracticoC12\\EjemploPracticoC12\\Form1.vb",
+              "RelativeToolTip": "EjemploPracticoC12\\Form1.vb",
+              "ViewState": "AgIAAL0BAAAAAAAAAAAcwM4BAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-21T18:31:53.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\12 - Scripts\\EjemploPracticoC12\\EjemploPracticoC12\\Form1.vb",
+              "RelativeDocumentMoniker": "EjemploPracticoC12\\Form1.vb",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\PC2_P\\Repositorio\\12 - Scripts\\EjemploPracticoC12\\EjemploPracticoC12\\Form1.vb [Design]",
+              "RelativeToolTip": "EjemploPracticoC12\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-21T18:31:44.556Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,44 @@
-## 🧩 Elementos visuales en el `TabLogin`
+# Taller consultas de MySQL en Visual Basic
+
+## 💾 3️⃣ Agregar la función para obtener la conexión
+
+Coloca esta clase para establecer la conexion a la base de datos:
+
+```vb
+Imports MySqlConnector
+
+Public Class ConnectionDB
+    Private connectionString As String
+
+    ' Constructor de la clase: define la cadena de conexión
+    Public Sub New()
+        ' Cambia estos valores según tu entorno
+        connectionString = "Server=localhost;Database=nombre-de-la-base-de-datos;Uid=root;Pwd=tu-contraseña;Allow User Variables=True"
+    End Sub
+
+    ' Método que devuelve una conexión lista para usarse
+    Public Function GetConnection() As MySqlConnection
+        Return New MySqlConnection(connectionString)
+    End Function
+
+    ' Método para probar si la conexión funciona correctamente
+    Public Function TestConnection() As Boolean
+        Try
+            Using conn As MySqlConnection = GetConnection()
+                conn.Open()
+                MessageBox.Show("✅ Conexión exitosa a la base de datos.")
+                Return True
+            End Using
+        Catch ex As Exception
+            MessageBox.Show($"❌ Error de conexión: {ex.Message}" & vbCrLf &
+                           "Verifica que MySQL esté ejecutándose y las credenciales sean correctas.")
+            Return False
+        End Try
+    End Function
+End Class
+```
+
+## 🧩 Elementos visuales en el Login
 
 | Control   | Nombre             | Propósito                   |
 | --------- | ------------------ | --------------------------- |
@@ -9,8 +49,6 @@
 ---
 
 ## 💾 Código — Login en Visual Basic
-
-Coloca este código en el mismo `Form1.vb`:
 
 ```vb
 ' Variable global para guardar el usuario actual
@@ -68,7 +106,7 @@ End Sub
 
 ---
 
-# 🎵 TAB 1 — CRUD DE CANCIONES
+# TAB CONTROL - 🎵 TAB 1 — CRUD DE CANCIONES
 
 ---
 
@@ -98,56 +136,7 @@ End Sub
 > 💡 Consejo: puedes poner los botones en una fila debajo del `DataGridView`
 > y los campos a la derecha para un diseño claro.
 
----
 
-## ⚙️ 2️⃣ Importaciones necesarias
-
-En la parte superior del `Form1.vb`:
-
-```vb
-Imports MySqlConnector
-Imports System.Data
-```
-
----
-
-## 💾 3️⃣ Agregar la función para obtener la conexión
-
-Coloca esta clase al inicio del mismo archivo o mantenla aparte si ya la tienes:
-
-```vb
-Imports MySqlConnector
-
-Public Class ConnectionDB
-    Private connectionString As String
-
-    ' Constructor de la clase: define la cadena de conexión
-    Public Sub New()
-        ' Cambia estos valores según tu entorno
-        connectionString = "Server=localhost;Database=nombre-de-la-base-de-datos;Uid=root;Pwd=tu-contraseña;Allow User Variables=True"
-    End Sub
-
-    ' Método que devuelve una conexión lista para usarse
-    Public Function GetConnection() As MySqlConnection
-        Return New MySqlConnection(connectionString)
-    End Function
-
-    ' Método para probar si la conexión funciona correctamente
-    Public Function TestConnection() As Boolean
-        Try
-            Using conn As MySqlConnection = GetConnection()
-                conn.Open()
-                MessageBox.Show("✅ Conexión exitosa a la base de datos.")
-                Return True
-            End Using
-        Catch ex As Exception
-            MessageBox.Show($"❌ Error de conexión: {ex.Message}" & vbCrLf &
-                           "Verifica que MySQL esté ejecutándose y las credenciales sean correctas.")
-            Return False
-        End Try
-    End Function
-End Class
-```
 
 ---
 
@@ -441,7 +430,7 @@ Private Sub CargarFavoritos()
                         End Using
                     End Using
                 Catch
-                    pic.Image = My.Resources.default_image ' ⚠️ Agrega una imagen por defecto en Resources
+                    MessageBox.Show("No se pudo cargar la imagen de la canción: " & reader("nombre").ToString())
                 End Try
 
                 ' Label con nombre de la canción
@@ -594,7 +583,7 @@ Private Sub CargarTodasLasCanciones()
                         End Using
                     End Using
                 Catch
-                    pic.Image = My.Resources.default_image ' imagen por defecto
+                    MessageBox.Show("No se pudo cargar la imagen de la canción: " & reader("nombre").ToString())
                 End Try
 
                 ' Label con título y artista
